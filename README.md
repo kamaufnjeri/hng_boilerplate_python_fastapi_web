@@ -92,6 +92,10 @@ This API uses JWT (JSON Web Token) for authentication. Bearer tokens are require
 - `UpdateUser`: Represents data for updating user information.
 - `Organisation`: Represents organisation details.
 - `CreateOrganisation`: Represents data for creating a new organisation.
+##Link to the Database Design
+[Database](https://dbdiagram.io/d/66917c429939893daecc150e)
+##Link to the API design
+  [API](https://app.swaggerhub.com/apis/KAMAUFNJERI2019/Hng_Kenyan_buddies/1.0.0)
 
 
 
