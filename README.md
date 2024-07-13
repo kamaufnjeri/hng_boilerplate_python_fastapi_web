@@ -1,5 +1,6 @@
 # Swagger HNGBoilerplate - OpenAPI 3.0
 
+
 This repository contains the OpenAPI 3.0 documentation for the HNGBoilerplate Server, used for stage 3 tasks.
 
 ## Introduction
