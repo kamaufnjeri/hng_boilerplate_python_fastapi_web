@@ -94,6 +94,7 @@ This API uses JWT (JSON Web Token) for authentication. Bearer tokens are require
 - `CreateOrganisation`: Represents data for creating a new organisation.
 
 
+
 ## External Documentation
 
 - [Swagger Documentation](http://swagger.io) - Find out more about Swagger
